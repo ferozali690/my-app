@@ -1,0 +1,43 @@
+form {
+  display: inline-block;
+
+  margin: 65px 0px 0px 335px;
+  width: 300px;
+}
+
+.input-name {
+  margin: 0px 0px 25px 20px;
+  width: 200px;
+  height: 20px;
+}
+.input-email {
+  margin: 0px 0px 25px 13px;
+  width: 200px;
+  height: 20px;
+}
+
+.input-phone {
+  margin: 0px 0px 25px 16px;
+  width: 200px;
+  height: 20px;
+}
+.input-address {
+  margin: 0px 0px 25px 6px;
+  width: 200px;
+  height: 20px;
+}
+
+input[type="submit"] {
+  width: 100px;
+  height: 25px;
+
+  margin-left: 30%;
+}
+
+.text-align {
+  text-align: center;
+}
+
+label {
+  font-weight: bold;
+}

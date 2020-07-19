@@ -1,0 +1,48 @@
+.header_container {
+  width: 20%;
+  height: 100%;
+  float: left;
+
+  background-color: #1a1a1a;
+}
+.header_container_lists {
+  list-style-type: none;
+}
+
+.header_container_lists_style {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  padding: 10px 0px 10px 25px;
+  display: inline-block;
+}
+.header_container_lists_heading {
+  background-color: #327bb5;
+  color: white;
+  padding: 10px 0px 10px 25px;
+}
+.header_container_lists_sub_heading {
+  background-color: #151515;
+  color: white;
+  padding: 20px 0px 10px 25px;
+}
+
+i.fas.fa-home {
+  padding-right: 10px;
+}
+
+i.fas.fa-tachometer-alt {
+  padding-right: 10px;
+}
+
+i.fas.fa-users {
+  padding-right: 10px;
+}
+
+i.fas.fa-cog {
+  padding-right: 10px;
+}
+
+i.fas.fa-info-circle {
+  padding-right: 10px;
+}

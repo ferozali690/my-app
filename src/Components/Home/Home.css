@@ -1,0 +1,21 @@
+.person-details-list {
+  text-align: center;
+  border: 1px solid;
+
+  width: 500px;
+
+  margin: 20px 0px 10px 235px;
+}
+
+.person-details-list li {
+  list-style-type: none;
+}
+
+.person-details-list li span {
+  font-weight: bold;
+}
+
+.home-container {
+  height: 100%;
+  overflow: scroll;
+}
