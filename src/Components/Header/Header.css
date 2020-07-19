@@ -46,3 +46,7 @@ i.fas.fa-cog {
 i.fas.fa-info-circle {
   padding-right: 10px;
 }
+
+.lists-border {
+  border-left: 1px solid #327bb5;
+}
