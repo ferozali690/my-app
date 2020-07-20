@@ -20,7 +20,7 @@
 }
 
 .person-scroll-list {
-  overflow-y: scroll;
+  overflow-y: auto;
   height: 300px;
 
   margin-top: 10px;
