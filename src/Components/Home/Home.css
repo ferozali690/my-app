@@ -17,5 +17,11 @@
 
 .home-container {
   height: 100%;
+}
+
+.person-scroll-list {
   overflow-y: scroll;
+  height: 300px;
+
+  margin-top: 10px;
 }

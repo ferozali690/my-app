@@ -25,7 +25,7 @@ class Home extends React.Component {
       <div className="home-container">
         <h1>Home</h1>
         <AddDetails addPersonDetails={this.handleAdd} />
-        <ul>
+        <ul className="person-scroll-list">
           {this.state.personDetails.map((item) => (
             <div key={item.id} className="person-details-list">
               <li>
